@@ -26,3 +26,4 @@ public class project : MonoBehaviour
      capsule.SetActive(!capsule.activeSelf);
     }
 }
+
